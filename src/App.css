@@ -27,3 +27,37 @@
 .view {
   height: 80vh;
 }
+
+@media (min-width: 576px) {
+  .view {
+    padding: 2.5em;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .view {
+    padding: 3em;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .view {
+    padding: 3em;
+  }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .view {
+    padding: 3em;
+  }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  .view {
+    padding: 3em;
+  }
+}
