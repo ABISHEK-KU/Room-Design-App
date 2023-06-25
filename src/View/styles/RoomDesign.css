@@ -1,0 +1,31 @@
+.card {
+    width: 100%
+}
+
+.card-image {
+    width: 100px;
+    height: 300px;
+}
+
+.expand,
+.close {
+    background: rgba(0, 0, 0, 0.4);
+    padding: 6px;
+    border-radius: 8px;
+    height: 32px;
+    width: 100%;
+}
+
+.image-body{
+    padding: 0 !important;
+}
+
+
+.modal-image {
+    max-height: 91vh;
+    width: 100%
+}
+
+.bi-heart-fill {
+    color: #FF2171;
+}
